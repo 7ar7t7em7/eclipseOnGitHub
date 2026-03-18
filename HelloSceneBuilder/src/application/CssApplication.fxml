@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="fxidAnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="fxidlevel1" layoutX="1.0" layoutY="143.0" prefHeight="18.0" prefWidth="450.0" text="Level 1" />
+      <Label fx:id="fxidCSSstyling" layoutY="304.0" prefHeight="18.0" prefWidth="450.0" text="CSS styling" />
+   </children>
+</AnchorPane>
